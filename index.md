@@ -1,14 +1,20 @@
-# Laboratório de Sinais e Sistemas (LSS)
+# Laboratório de Sinais e Sistemas
+
+O Laboratório de Sinais e Sistemas (LSS) é um laboratório interdisciplinar, com membros da graduação e da pós-graduação da Universidade Federal do ABC (UFABC).
 
 ## Áreas de Pesquisa
 
 - Aprendizado de Máquina
 - Ciência de Dados
 - Codificação de Sinais Multimídia
+- Detecção e Estimação de Sinais
 - Interface Cérebro-Computador
+- Melhoramento de Voz
 - Processamento de Sinais de Áudio, Voz, Música e Acústica
+- Recuperação de Sinais Musicais
 - Segurança de Redes
 - Separação Cega de Fontes
+- Síntese de Voz
 - Sistemas Embarcados
 - Tratamento de Ruídos
 
