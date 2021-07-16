@@ -1,22 +1,34 @@
-## Laboratório de Sinais e Sistemas
+# Laboratório de Sinais e Sistemas
 
 O Laboratório de Sinais e Sistemas (LSS) é um laboratório interdisciplinar, com membros da graduação e da pós-graduação da Universidade Federal do ABC (UFABC).
 
-### Áreas de Pesquisa
+## Áreas de Pesquisa
 
 - Aprendizado de Máquina
 - Ciência de Dados
 - Codificação de Sinais Multimídia
 - Detecção e Estimação de Sinais
+- Filtragem Adaptativa
 - Interface Cérebro-Computador
 - Melhoramento de Voz
 - Processamento de Sinais de Áudio, Voz, Música e Acústica
 - Recuperação de Sinais Musicais
+- Redes de Sensores
 - Segurança de Redes
 - Separação Cega de Fontes
 - Síntese de Voz
 - Sistemas Embarcados
 - Tratamento de Ruídos
+
+## Membros
+
+### Professores
+
+- Aline de Oliveira Neves Panazio
+    - [aline.panazio@ufabc.edu.br](e-Mail)
+    - [http://lattes.cnpq.br/9616961770334574](Lattes)
+    - [https://scholar.google.com.br/citations?user=JDj7asEAAAAJ](Scholar)
+    
 
 
 <!-- ## Welcome to GitHub Pages
