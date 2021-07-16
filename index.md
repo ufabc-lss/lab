@@ -25,7 +25,7 @@ O Laboratório de Sinais e Sistemas (LSS) é um laboratório interdisciplinar, c
 ### Professores
 
 - Aline de Oliveira Neves Panazio
-    - [e-Mail](aline.panazio@ufabc.edu.br)
+    - [e-Mail](mailto:aline.panazio@ufabc.edu.br)
     - [Lattes](http://lattes.cnpq.br/9616961770334574)
     - [Scholar](https://scholar.google.com.br/citations?user=JDj7asEAAAAJ)
     
