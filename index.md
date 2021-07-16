@@ -34,6 +34,13 @@ O Laboratório de Sinais e Sistemas (LSS) é um laboratório interdisciplinar, c
     - [Lattes](http://lattes.cnpq.br/5335439141754127)
     - [Scholar](https://scholar.google.com.br/citations?user=pyLn3q4AAAAJ&hl=pt-BR)
 
+### Doutorandos
+
+- Tito Caco Curimbaba Spadini
+    - [e-Mail](mailto:tito.caco@ufabc.edu.br)
+    - [Lattes](http://lattes.cnpq.br/3817440854911030)
+    - [Scholar](https://scholar.google.com/citations?user=5d13kDAAAAAJ&hl=pt-BR)
+    - [Website](https://spadini.info)
 
 
 <!-- ## Welcome to GitHub Pages
