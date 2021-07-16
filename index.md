@@ -27,8 +27,13 @@ O Laboratório de Sinais e Sistemas (LSS) é um laboratório interdisciplinar, c
 - Aline de Oliveira Neves Panazio
     - [e-Mail](mailto:aline.panazio@ufabc.edu.br)
     - [Lattes](http://lattes.cnpq.br/9616961770334574)
-    - [Scholar](https://scholar.google.com.br/citations?user=JDj7asEAAAAJ)
-    
+    - [Scholar](https://scholar.google.com.br/citations?user=JDj7asEAAAAJ&hl=pt-BR)
+
+- André Kazuo Takahata
+    - [e-Mail](andre.t@ufabc.edu.br)
+    - [Lattes](http://lattes.cnpq.br/5335439141754127)
+    - [Scholar](https://scholar.google.com.br/citations?user=pyLn3q4AAAAJ&hl=pt-BR)
+
 
 
 <!-- ## Welcome to GitHub Pages
