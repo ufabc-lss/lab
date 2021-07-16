@@ -37,6 +37,8 @@ O Laboratório de Sinais e Sistemas (LSS) é um laboratório interdisciplinar, c
 ### Doutorandos
 
 - Tito Caco Curimbaba Spadini
+    - Orientador: Dr. Ricardo Suyama
+    - Co-Orientador: Dr. Kenji Nose Filho
     - [e-Mail](mailto:tito.caco@ufabc.edu.br)
     - [Lattes](http://lattes.cnpq.br/3817440854911030)
     - [Scholar](https://scholar.google.com/citations?user=5d13kDAAAAAJ&hl=pt-BR)
